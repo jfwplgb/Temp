@@ -8,6 +8,7 @@ public class Test {
         System.out.println("111111111");
         System.out.println("111111111");
         System.out.println("111111111");
+        System.out.println("123");
     }
     public void test(){
         int i =0;
@@ -15,4 +16,5 @@ public class Test {
 
 
     }
+
 }
